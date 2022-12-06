@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/leonardorabelo/projetosweb.github.io#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "mysql2": "^1.6.5",
     "sequelize": "^5.9.2"
   }
